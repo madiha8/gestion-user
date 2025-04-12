@@ -7,6 +7,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 Application fullstack de gestion d'utilisateurs avec React, Express.js et MySQL, conteneurisée avec Docker et déployée avec GitHub Actions.
+![image](https://github.com/user-attachments/assets/ecac350b-7795-4ccd-9d80-2722509e9f46)
+
 
 ## 📋 Table des matières
 - [Fonctionnalités](#-fonctionnalités)
