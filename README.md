@@ -37,6 +37,8 @@ Application fullstack de gestion d'utilisateurs avec React, Express.js et MySQL,
 - 🐳 Conteneurisation avec Docker
 - 🔄 CI/CD avec GitHub Actions
 - ✅ Tests automatisés avec Mocha/Chai
+- ![image](https://github.com/user-attachments/assets/84f8347e-ff19-40f7-bf9e-5d30b03d47f0)
+
 
 ## 💻 Technologies
 
